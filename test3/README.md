@@ -1,4 +1,4 @@
-# test3
+# Counter
 
 Day2-23.07.2024
 
