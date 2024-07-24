@@ -30,7 +30,7 @@ class _SecondPageState extends State<SecondPage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             const Text(
-              "Welcome second page",
+              "Counter",
               textAlign: TextAlign.center,
               style: TextStyle(
                   color: Colors.black87,
